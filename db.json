@@ -1,0 +1,58 @@
+{
+  "parcels": [
+    {
+      "ulid": "01EZ9M52AQGZVWXDQAB9378KM2",
+      "codeWord": "BIZOU1212",
+      "deliveryPrice": 2000,
+      "currency": "XOF",
+      "createdAt": 1656539888383,
+      "payment": {
+        "price": 1016.3,
+        "currency": "XOF",
+        "mode": "CASH"
+      }
+    },
+    {
+      "ulid": "01EZ9M52AQGZVWXDQAB9378KM3",
+      "codeWord": "VACHE3212",
+      "deliveryPrice": 3000,
+      "currency": "XOF",
+      "createdAt": 1656539888383,
+      "payment": {
+        "price": 2000,
+        "currency": "XOF",
+        "mode": "CASH"
+      }
+    },
+    {
+      "ulid": "01EZ9M52AQGZVWXDQAB9378KM4",
+      "codeWord": "CACHE1616",
+      "deliveryPrice": 4000,
+      "currency": "XOF",
+      "createdAt": 1656539888383,
+      "payment": {
+        "price": 3000,
+        "currency": "XOF",
+        "mode": "CASH"
+      }
+    },
+    {
+      "ulid": "01EZ9M52AQGZVWXDQAB9378KM5",
+      "codeWord": "BALLE4242",
+      "deliveryPrice": 6000,
+      "currency": "XOF",
+      "createdAt": 1656539888383,
+      "payment": {
+        "price": 4000,
+        "currency": "XOF",
+        "mode": "CASH"
+      }
+    }
+  ],
+  "metadatas": {
+    "pagination": {
+      "nextCursor": null,
+      "totalItems": 4
+    }
+  }
+}
